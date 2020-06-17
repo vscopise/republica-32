@@ -1,0 +1,7 @@
+.post-title .colgado {
+    display: block;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}

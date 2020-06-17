@@ -1,0 +1,45 @@
+.vc_col-sm-8 .z-listing .listing-item-classic.bsw-3 .title {
+    font-size: 22px;
+}
+.vc_col-sm-2 .z-listing .listing-item-classic.bsw-3 .title {
+    font-size: 14px;
+}
+.vc_col-sm-6 .z-listing .listing-item-classic.bsw-3 .title {
+    font-size: 19px;
+}
+.vc_col-sm-2 .z-listing .listing-item-classic.bsw-3 .featured {
+    margin-bottom: 10px;
+}
+
+.vc_col-sm-2 .z-listing .listing-item {
+    margin-bottom: 18px;
+}
+.vc_col-sm-2 .z-listing .listing-item .img-holder:before {
+    padding-top: 70%;
+}
+.vc_col-sm-4 .z-listing .listing-item .img-holder:before {
+    padding-top: 65%;
+}
+.vc_col-sm-6 .z-listing .listing-item .img-holder:before {
+    padding-top: 58%;
+}
+
+
+.z-listing .listing-item-classic.bsw-3 .title .post-title {
+    font-size: 100%;
+}
+.z-listing .listing-item-classic.bsw-3 .title {
+    font-weight: 700;
+}
+.vc_col-sm-4 .z-listing .listing-item-classic.bsw-3 .title {
+    font-size: 16px;
+}
+.vc_col-sm-4 .z-listing .listing-item-classic.bsw-3 .featured {
+    margin-bottom: 9px;
+}
+.vc_col-sm-4 .z-listing {
+    margin-bottom: 25px;
+}
+.vc_col-sm-4 .z-listing:last-child {
+    margin-bottom: 0;
+}
